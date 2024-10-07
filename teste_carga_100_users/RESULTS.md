@@ -58,7 +58,7 @@ Os gráficos gerados durante o teste encontram-se no relatório gerado. Para vis
 
 ## Resultados 📈
 
-### Dados Recolhidos
+### Dados Recolhidos (Objetivos)
 
 #### Tempo Médio de Resposta
 > OBS: Abra as guias minimizadas para ver imagens dos gráficos!
